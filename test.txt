@@ -1,0 +1,9 @@
+quality_check/00000012.jpg
+quality_check/00000026.jpg
+quality_check/00000037.jpg
+quality_check/00000051.jpg
+quality_check/00000061.jpg
+quality_check/00000071.jpg
+quality_check/00000082.jpg
+quality_check/00000093.jpg
+quality_check/00000103.jpg

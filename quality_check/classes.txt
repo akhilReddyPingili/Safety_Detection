@@ -1,0 +1,10 @@
+Alloy_wheel
+tape
+Head_lamp
+Fog_lamp
+Logo
+Mirror
+Handle
+Skid_plate
+NormL_wheel
+No_Fog_lamp
